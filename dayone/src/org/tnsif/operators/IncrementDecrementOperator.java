@@ -11,6 +11,7 @@ public class IncrementDecrementOperator {
 		System.out.println(x);
 		System.out.println(y);
 		System.out.println("result 2 variable");
+		//x=24,y=7
 		int resl2=x-- + --y;
 		System.out.println(resl2);
 		System.out.println(x);
